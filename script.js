@@ -38,5 +38,9 @@ const namaKhodam = [
     "Kutu Rambut",
     "Supra Bapak",
     "Sapu",
-    "Sapi"
+    "Sapi",
+    "Kosong",
+    "Kerbau",
+    "Cangcut",
+    "Anjing Sakti"
 ];
