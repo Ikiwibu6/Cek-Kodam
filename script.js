@@ -45,5 +45,15 @@ const namaKhodam = [
     "Anjing Sakti",
     "Pocong",
     "Genderuwo",
-    "Ambaruwo"
+    "Ambaruwo",
+    "Kuntilanak Merah",
+    "Tuyul",
+    "Baygon",
+    "Elang Putih",
+    "Beat Mber",
+    "Ultramen",
+    "Iblis",
+    "Jin",
+    "Qorin",
+    "Kasur"
 ];
