@@ -42,5 +42,8 @@ const namaKhodam = [
     "Kosong",
     "Kerbau",
     "Cangcut",
-    "Anjing Sakti"
+    "Anjing Sakti",
+    "Pocong",
+    "Genderuwo",
+    "Ambaruwo"
 ];
