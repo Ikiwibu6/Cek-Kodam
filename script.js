@@ -81,5 +81,7 @@ const namaKhodam = [
     "Raden Falshkdisk",
     "Raden Kipas Laptop",
     "Odong Odong Bandung",
-    "Casan Merk Mito"
+    "Casan Merk Mito",
+    "Cacing Tanah",
+    "Raden Capslock"
 ];
